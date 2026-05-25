@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, je suis Pierre 👋
 
-<!--
-**menardrop-cpu/menardrop-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Consultant Cybersécurité orienté **Audit GRC** et **SecOps**. Passionné par la sécurisation des architectures et l'analyse offensive pour mieux défendre les systèmes.
 
-Here are some ideas to get you started:
+### 🛠 Compétences Techniques
+* **Audit & GRC :** Pentest méthodologique (Frameworks), Analyse de risques, MITRE ATT&CK.
+* **Sécurité Opérationnelle :** Hardening système, Sécurisation réseaux, Threat Intelligence.
+* **Red-Team :** Exploitation de vulnérabilités, CTF, PrivEsc, Scripting (Bash/Python).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Projets en vedette
+* [**Cybersecurity Portfolio**](https://github.com/menardrop-cpu/cybersecurity) : Mon laboratoire de consultant (Audits, Red-Team, Fondamentaux).
+
+---
+
+### ⚡ À propos
+- 🛡️ Adepte du "Secure by Design".
+- 🔍 En veille constante sur les nouvelles menaces (APT/Threat Intel).
+- 💬 Ouvert aux discussions sur la Cybersécurité et le Consulting.
+
+---
+
+### 📬 Contact
+[LinkedIn](https://www.linkedin.com/in/menardrop) | [Email](meetwithpierre@gmail.com)
