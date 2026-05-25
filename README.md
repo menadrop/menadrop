@@ -9,7 +9,7 @@ Consultant Cybersécurité orienté **Audit GRC** et **SecOps**. Passionné par 
 
 ---
 
-### 📂 Projets en vedette
+### 📂 Projet
 * [**Cybersecurity Portfolio**](https://github.com/menardrop-cpu/cybersecurity) : Mon laboratoire de consultant (Audits, Red-Team, Fondamentaux).
 
 ---
