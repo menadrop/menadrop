@@ -14,10 +14,10 @@ Consultant Cybersécurité orienté **Audit GRC** et **SecOps**. Passionné par 
 
 ---
 
-### ⚡ À propos
-- 🛡️ Adepte du "Secure by Design".
-- 🔍 En veille constante sur les nouvelles menaces (APT/Threat Intel).
-- 💬 Ouvert aux discussions sur la Cybersécurité et le Consulting.
+###  ℹ️ À propos
+- Adepte du "Secure by Design".
+-  En veille constante sur les nouvelles menaces (APT/Threat Intel).
+- Ouvert aux discussions sur la Cybersécurité et le Consulting.
 
 ---
 
