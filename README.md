@@ -25,4 +25,4 @@ Cible carrière : Analyste GRC | Threat Intelligence
 
 ## Contact
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-menardrop-0A66C2?style=flat-square)  | [Mail] (menardrop.pierre@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-menardrop-0A66C2?style=flat-square)  | [Mail](menardrop.pierre@gmail.com)
