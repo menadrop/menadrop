@@ -1,25 +1,27 @@
-# Hello, je suis Pierre 👋
+# menardrop-cpu
 
-Consultant Cybersécurité orienté **Audit GRC** et **SecOps**. Passionné par la sécurisation des architectures et l'analyse offensive pour mieux défendre les systèmes.
+![Status](https://img.shields.io/badge/Status-In%20Training-blue?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-GRC%20%26%20Threat%20Intel-orange?style=flat-square)
+![Bootcamp](https://img.shields.io/badge/Jedha-Fullstack%20%26%20Lead-green?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Tours-lightgrey?style=flat-square)
+Pierre Menard | Reconversion cybersécurité | Focus GRC & Threat Intelligence
 
-### 🛠 Compétences Techniques
-* **Audit & GRC :** Pentest méthodologique (Frameworks), Analyse de risques, MITRE ATT&CK.
-* **Sécurité Opérationnelle :** Hardening système, Sécurisation réseaux, Threat Intelligence.
-* **Red-Team :** Exploitation de vulnérabilités, CTF, PrivEsc, Scripting (Bash/Python).
+En formation intensive (Jedha Bootcamp, avril / juillet 2026).
+Cible carrière : Analyste GRC | Threat Intelligence
 
----
+## Repos clés
 
-### 📂 Projet
-* [**Cybersecurity Portfolio**](https://github.com/menardrop-cpu/cybersecurity) : Mon laboratoire de consultant (Audits, Red-Team, Fondamentaux).
+| Repo | Purpose |
+|------|---------|
+| [cybersecurity](https://github.com/menardrop-cpu/cybersecurity) | Labs & pentest reports (bootcamp) |
+| [osint-wiki](https://github.com/menardrop-cpu/osint-wiki) | Référentiel OSINT structuré (13 sections, ~4000 lignes) |
+| [grc-foundations](https://github.com/menardrop-cpu/grc-foundations) | Notes GRC : ISO 27001, NIST CSF, vendor risk |
 
----
+## Certifications en cours
 
-###  ℹ️ À propos
-- Adepte du "Secure by Design".
--  En veille constante sur les nouvelles menaces (APT/Threat Intel).
-- Ouvert aux discussions sur la Cybersécurité et le Consulting.
+- ISC² CC (juin 2026)
+- ISO 27001 Lead Implementer (post-bootcamp)
 
----
+## Contact
 
-### 📬 Contact
-[LinkedIn](https://www.linkedin.com/in/menardrop) | [Email](meetwithpierre@gmail.com)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-menardrop-0A66C2?style=flat-square)  | [Mail] (menardrop.pierre@gmail.com)
