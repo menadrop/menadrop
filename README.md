@@ -7,7 +7,7 @@
 
 Pierre Menard | Reconversion cybersécurité | Focus GRC & Threat Intelligence
 
-En formation intensive (Jedha Bootcamp, avril / juillet 2026).
+En formation intensive (Jedha Bootcamp, janvier / décembre 2026).
 Cible carrière : Analyste GRC | Threat Intelligence
 
 ## Repos clés
