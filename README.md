@@ -5,7 +5,7 @@
 ![Bootcamp](https://img.shields.io/badge/Jedha-Fullstack%20%26%20Lead-green?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Tours-lightgrey?style=flat-square)
 
-Pierre Menard | Reconversion cybersécurité | Focus GRC & Threat Intelligence
+Pierre Menard | Focus GRC & Threat Intelligence
 
 En formation intensive (Jedha Bootcamp, janvier / décembre 2026).
 Cible carrière : Analyste GRC | Threat Intelligence
