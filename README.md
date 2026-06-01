@@ -5,24 +5,8 @@
 ![Bootcamp](https://img.shields.io/badge/Jedha-Fullstack%20%26%20Lead-green?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-Tours-lightgrey?style=flat-square)
 
-Pierre Menard | Focus GRC & Threat Intelligence
+Focus GRC & Threat Intelligence
 
 En formation intensive (Jedha Bootcamp, janvier / décembre 2026).
 Cible carrière : Analyste GRC | Threat Intelligence
 
-## Repos clés
-
-| Repo | Purpose |
-|------|---------|
-| [cybersecurity](https://github.com/menardrop-cpu/cybersecurity) | Labs & pentest reports (bootcamp) |
-| [osint-wiki](https://github.com/menardrop-cpu/osint-wiki) | Référentiel OSINT structuré (13 sections, ~4000 lignes) |
-| [grc-foundations](https://github.com/menardrop-cpu/grc-foundations) | Notes GRC : ISO 27001, NIST CSF, vendor risk |
-
-## Certifications en cours
-
-- ISC² CC (juin 2026)
-- ISO 27001 Lead Implementer (post-bootcamp)
-
-## Contact
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-menardrop-0A66C2?style=flat-square)  | [Mail](menardrop.pierre@gmail.com)
