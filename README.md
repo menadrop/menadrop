@@ -1,4 +1,4 @@
-# menardrop-cpu
+# menadrop
 
 ![Status](https://img.shields.io/badge/Status-In%20Training-blue?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-GRC%20%26%20Threat%20Intel-orange?style=flat-square)
@@ -7,6 +7,5 @@
 
 Focus GRC & Threat Intelligence
 
-En formation intensive (Jedha Bootcamp, janvier / décembre 2026).
 Cible carrière : Analyste GRC | Threat Intelligence
 
